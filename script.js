@@ -2,12 +2,7 @@
 // TODO: Replace the following with your app's Firebase project configuration
 // See: https://support.google.com/firebase/answer/7015592
 const firebaseConfig = {
-    apiKey: "AIzaSyBIvu28OSwP_0GiUp1XdHx7uUz_YxHAmHo",
-    authDomain: "formulario-166dc.firebaseapp.com",
-    projectId: "formulario-166dc",
-    storageBucket: "formulario-166dc.appspot.com",
-    messagingSenderId: "1078280591849",
-    appId: "1:1078280591849:web:65720a4819752224211378"
+    
 };
 
 // Initialize Firebase

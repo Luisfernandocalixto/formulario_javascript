@@ -3,7 +3,7 @@ body {
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #fffde449, #0059a7cc), url(./img/wave.png);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #fffde444, #0059a7c3),url(./img/wave.png);
+  background: linear-gradient(to right, #fffde444, #0059a7c3), url(./img/wave.png);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-attachment: fixed;
   background-position: center;
