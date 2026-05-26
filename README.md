@@ -35,4 +35,6 @@ Solicitara email para poder generar la documentación y notificar una vez hecha.
 
 
 ## Capturas de pantalla
+<img width="438" height="891" alt="image" src="https://github.com/user-attachments/assets/3c05cbf1-3af4-4403-b39e-034c9c265088" />
+<img width="1559" height="975" alt="image" src="https://github.com/user-attachments/assets/32163483-ed5b-422a-84e2-03748c3c84d7" />
 
